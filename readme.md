@@ -19,7 +19,7 @@ You can use the usePathname() hook to determine if a nav link is active.
 
 `way to use`
 
-{import { usePathname } from 'next/navigation'
+`import { usePathname } from 'next/navigation'
 import Link from 'next/link'
  
 export function NavLinks() {
@@ -32,4 +32,4 @@ export function NavLinks() {
       </Link>
         </nav>
   )
-}}
+}`
