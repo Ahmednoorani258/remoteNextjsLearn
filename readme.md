@@ -33,3 +33,14 @@ export function NavLinks() {
         </nav>
   )
 }
+```
+
+# Linking & Navigation
+
+There are four ways to navigate between routes in Next.js:
+
+Using the <Link> Component
+Using the useRouter hook (Client Components)
+Using the redirect function (Server Components)
+Using the native History API
+
