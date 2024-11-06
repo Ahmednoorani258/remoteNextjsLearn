@@ -44,3 +44,6 @@ Using the useRouter hook (Client Components)
 Using the redirect function (Server Components)
 Using the native History API
 
+
+
+#CHAPTER 1 GETTING STARTED
